@@ -1,3 +1,6 @@
+# Abandoned
+This package is abandoned. I am no longer actively developing for a Lighthouse application, thus I personally don't require testing tools for it anymore. Furthermore, most of my work was done in collaboration with the wonderful Lighthouse authors, and some of my ideas and code have found their way upstream. Take a look at [the documentation](https://lighthouse-php.com/5.2/testing/phpunit.html#setup) for more information about that.
+
 # Laravel Lighthouse Test
 This package provides some tools to help you test GraphQL APIs developed using [Lighthouse](https://www.lighthouse-php.com/). The library is targeted at Lighthouse and will not work with other libraries.
 
